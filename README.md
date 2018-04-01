@@ -1,1 +1,1 @@
-# trivia-HP
+# trivia-game-one

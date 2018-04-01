@@ -1,0 +1,92 @@
+body {
+    background: url("../images/harry-potter.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1{
+    font-size : 60px;
+    text-align: center;
+    color: white;
+}
+
+p, h2{
+    color: white;
+}
+
+#start{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    right: 33%;
+    top: 50%;
+    background: #021327;
+    color: white;
+    
+}
+
+.container{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    right: 324px;
+    top: 97px;
+}
+
+.hidden{ 
+    display: none; 
+}
+
+#timeRemaining{
+    font-size:  20px;
+    text-align: center;
+}
+
+form{
+    margin-top: 10px;
+    color: white;
+}
+
+.questions{
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+#done{
+    margin-top: 10px;
+    position: absolute;
+    right: 37%;
+    width: 200px;
+    height: 50px;
+    background: #021327;
+    color: white;
+    
+}
+
+h2{
+    font-size: 35px;
+}
+
+#results{
+    padding: 60px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.questions p{
+    margin-bottom: 5px;
+}
+
+#game button{
+    width: 251px;
+    height: 88px;
+    background: #021327;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+#game p{
+    font-size: 25px;
+    margin-top: 20px;
+}
